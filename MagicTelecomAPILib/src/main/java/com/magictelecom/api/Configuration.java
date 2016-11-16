@@ -15,7 +15,7 @@ import com.android.volley.toolbox.Volley;
 
 public class Configuration {
     //The base Uri for API calls
-    public static String baseUri = "https://api.magictelecom.com/app_dev.php";
+    public static String baseUri = "https://api.magictelecom.com";
 
     //retains status whether we have already initialized
     private static boolean initialized = false;
